@@ -21,7 +21,8 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 
-
+# !important👇👇👇
+# SECRET_KEY = "NO SECRET KEY MAKE YOUR OWN at https://djecrety.ir"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
