@@ -3,7 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 # Sensitive data
-key.py
+# !important uncomment the following line after cloning👇👇👇
+# key.py
 # C extensions
 *.so
 
